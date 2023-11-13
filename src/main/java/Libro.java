@@ -1,3 +1,4 @@
+import java.util.Scanner;
 public class Libro {
     private String nombreLibro;
     private String autorLibro;
@@ -27,4 +28,5 @@ public class Libro {
     public void setAutorLibro(String autorLibro) {
         this.autorLibro = autorLibro;
     }
+
 }
